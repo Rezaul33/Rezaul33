@@ -1,8 +1,11 @@
-
 <div align="center">
   <h3>👋 Hi there, My name is Rezaul Islam.</h3>
   <h4>I am a Freelance Data Scientist.</h4>
   <img src="cover.jpg" alt="Cover picture" />
+
+  <!-- View Counter -->
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=Rezaul33&color=blue&style=plastic&label=Profile+Views" alt="Profile Views" />
 </div>
 
 
