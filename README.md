@@ -86,7 +86,9 @@
 - Movie/TV series
 - Anime & Manga
 - Video Game
-- Travelling 
+- Travelling
+
+---
 
 [![Rezaul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rezaul33&bg_color=1A1B26&color=6DA0F4&line=6DA0F4&point=A8D1B6&area=true&hide_border=true)](https://github.com/Rezaul33/github-readme-activity-graph)
 
