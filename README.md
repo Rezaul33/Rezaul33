@@ -1,6 +1,8 @@
 ### 👋 Hi there , My name is Rezaul Islam.
 #### I am a Freelance Data Scientist.
-![Cover picture](cover.jpg)
+<p align="center">
+  <img src="cover.jpg" alt="Cover picture" />
+</p>
 
 
 <p align="center">
