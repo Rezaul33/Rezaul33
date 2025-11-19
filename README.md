@@ -77,7 +77,7 @@
 ## Education
 - Postgraduate Diploma in Data Science & Business Analytics
   - [Academy of Business Professionals, Bangladesh](https://abpbd.org/)
-  - Year: 2024-2024
+  - Year: 2023-2024
 
 - Bachelor of Science in Computer Science and Engineering
   - [Independent University, Bangladesh](https://iub.ac.bd/)
