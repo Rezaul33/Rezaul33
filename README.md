@@ -44,7 +44,7 @@
 
 🌐 Beyond coding, I enjoy mentoring, collaborating with like-minded professionals, and staying active in AI and data science communities. I’m always excited to discuss insights, explore innovative projects, and push the boundaries of what data can do.
 
-📫 Reach out if you have a challenging data project, want to collaborate on AI solutions, or just geek out about machine learning and analytics. Let’s turn data into intelligence! 🚀
+📫 Reach out if you have a challenging data project, want to collaborate on AI solutions, or just geek out about machine learning and analytics. Let’s turn data into intelligence!
 
 ## Use To Code
 ### Languages
