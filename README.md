@@ -1,7 +1,7 @@
 <div align="center">
   <h3>👋 Hi there, My name is Rezaul Islam.</h3>
   <h4>I am a Freelance Data Scientist.</h4>
-  <img src="cover.jpg" alt="Cover picture" />
+  <img src="cover-animated.png" alt="Cover picture" />
 
   <!-- View Counter -->
   <br><br>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://rezaul33.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="sabbir" />
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="rezaul" />
  </a>
   <a href="https://www.linkedin.com/in/md-rezaul-islam-cse/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
