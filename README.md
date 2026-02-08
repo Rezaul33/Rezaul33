@@ -46,35 +46,71 @@
 
 📫 Reach out if you have a challenging data project, want to collaborate on AI solutions, or just geek out about machine learning and analytics. Let’s turn data into intelligence!
 
-## Use To Code
-### Languages
+## 🧠 Skills & Technologies
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=000000&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&labelColor=000000&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&labelColor=000000&logo=sqlite&logoColor=white)
 
-### Notebooks & Data Tools
+---
+
+### Data Analysis, Mining & Preprocessing
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2ECC71?style=for-the-badge&labelColor=000000)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-F39C12?style=for-the-badge&labelColor=000000)
+![Data Mining](https://img.shields.io/badge/Data_Mining-3498DB?style=for-the-badge&labelColor=000000)
+![Principal Component Analysis](https://img.shields.io/badge/PCA-9B59B6?style=for-the-badge&labelColor=000000)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&labelColor=000000&logo=jupyter&logoColor=white)
 ![MS Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&labelColor=000000&logo=microsoft-excel&logoColor=white)
-![MS Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&labelColor=000000&logo=microsoft-power-bi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&labelColor=000000&logo=postgresql&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&labelColor=000000&logo=streamlit&logoColor=white)
-![MS Fabric](https://img.shields.io/badge/MS_Fabric-0078D7?style=for-the-badge&labelColor=000000&logo=microsoft&logoColor=white)
 
-### Machine Learning & AI
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&labelColor=000000&logo=ai&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-4B0082?style=for-the-badge&labelColor=000000&logo=ai&logoColor=white)
+---
+
+### Data Visualization & BI
+![Power BI](https://img.shields.io/badge/Power_BI-F2C80F?style=for-the-badge&labelColor=000000&logo=microsoft-power-bi&logoColor=black)
+
+---
+
+### Machine Learning & Statistical Modeling
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=for-the-badge&labelColor=000000)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-4B0082?style=for-the-badge&labelColor=000000)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&labelColor=000000)
+![LightGBM](https://img.shields.io/badge/LightGBM-00FFAA?style=for-the-badge&labelColor=000000)
+![CatBoost](https://img.shields.io/badge/CatBoost-0088FF?style=for-the-badge&labelColor=000000)
+![LazyPredict](https://img.shields.io/badge/LazyPredict-FFAA00?style=for-the-badge&labelColor=000000)
+
+---
+
+### Deep Learning Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&labelColor=000000&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&labelColor=000000&logo=pytorch&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&labelColor=000000&logo=xgboost&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-00FFAA?style=for-the-badge&labelColor=000000&logo=lightgbm&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-0088FF?style=for-the-badge&labelColor=000000&logo=catboost&logoColor=white)
-![LazyPredict](https://img.shields.io/badge/LazyPredict-FFAA00?style=for-the-badge&labelColor=000000&logo=python&logoColor=white)
-![YOLOv](https://img.shields.io/badge/YOLOv-FF0033?style=for-the-badge&labelColor=000000&logo=ai&logoColor=white)
 
-### Version Control & IDE / DevOps
+---
+
+### Natural Language Processing & Generative AI
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge&labelColor=000000)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-9B59B6?style=for-the-badge&labelColor=000000)
+![Vector Databases](https://img.shields.io/badge/Vector_Databases-2ECC71?style=for-the-badge&labelColor=000000)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-E84393?style=for-the-badge&labelColor=000000)
+
+---
+
+### Computer Vision
+![Image Classification](https://img.shields.io/badge/Image_Classification-1ABC9C?style=for-the-badge&labelColor=000000)
+![YOLOv](https://img.shields.io/badge/YOLOv-FF0033?style=for-the-badge&labelColor=000000)
+
+---
+
+### Databases & App Development
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&labelColor=000000&logo=postgresql&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?style=for-the-badge&labelColor=000000&logo=streamlit&logoColor=white)
+
+---
+
+### DevOps, Version Control & AI Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=000000&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&labelColor=000000&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=000000&logo=visual-studio&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-AI_Dev_Tool-0A66C2?style=for-the-badge&labelColor=000000)
+
 
 ## Education
 - Postgraduate Diploma in Data Science & Business Analytics
