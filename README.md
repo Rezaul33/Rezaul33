@@ -1,7 +1,7 @@
 <div align="center">
   <h3>👋 Hi there, My name is Rezaul Islam.</h3>
   <h4>I am a Data Scientist.</h4>
-  <img src="cover-graduation.jpg" alt="Cover picture" />
+  <img src="cover.jpg" alt="Cover picture" />
 
   <!-- View Counter -->
   <br><br>
